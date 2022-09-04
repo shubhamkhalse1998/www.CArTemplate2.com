@@ -1,0 +1,85 @@
+@font-face {
+    font-family: shubhamstretch;
+    src: url(/Fonts/THE\ SOLSTICE.ttf);
+}
+.homepage{
+    height: 650px;
+    width: 100%;
+    /* background-color: aqua; */
+}
+/* .logo{ */
+    /* height: 200px; */
+    /* width: 100%; */
+    /* background-color: black; */
+/* } */
+/* .logo1{ */
+    /* height: 200px; */
+    /* width: 25%; */
+    /* background-color: aliceblue; */
+    /* float: left; */
+/* } */
+/* .logo2{ */
+    /* height: 200px; */
+    /* width: 25%; */
+    /* background-color:aqua; */
+    /* float: left; */
+/* } */
+/* .logo3{ */
+    /* height: 200px; */
+    /* width: 25%; */
+    /* background-color:black; */
+    /* float: left; */
+/* } */
+/* .logo4{ */
+    /* height: 200px; */
+    /* width: 25%; */
+    /* background-color: aliceblue; */
+    /* float: left;     */
+/* } */
+.galaxy{
+    height:650px ;
+    width: 100%;
+    /* background-color: aliceblue; */
+    background-image: url(/images/galaxy4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: fixed; */
+    /* float: left; */
+    color:transparent;
+    text-align:center;
+    /* margin-top: 50px; */
+    font-family: shubhamstretch;
+    line-height: 0.2em;
+    /* padding: 0px; */
+    float: left;
+    
+}
+.galaxy h2{
+    padding-top: 80px;
+    text-shadow: 5px 1px whitesmoke;
+    font-size: 80px;
+}
+.galaxy h3{
+    padding-top: 50px;
+    text-shadow: 5px 1px whitesmoke;
+    font-size: 80px;
+}
+.galaxy h1{
+    padding-top: 2px;
+    text-shadow: 5px 1px yellow;
+    font-size: 100px;
+    padding-top: 60px;
+}
+a{
+    text-decoration: none;
+    color:lavender;
+}
+h4{
+    color: azure;
+    padding-top: 50px;
+}
+h1:hover{
+    color: black;
+    text-shadow: 5px 1px azure;
+    font-size: 110px;
+}

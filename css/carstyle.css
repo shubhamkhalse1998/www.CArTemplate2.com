@@ -1,0 +1,828 @@
+.main{
+    height: 3900px;
+    width: 1300px;
+    background-color:grey;
+    margin: auto;
+}
+.box1{
+    height: 800px;
+    width: 1150px;
+    background-color: grey;
+    margin: auto;
+    position: absolute;
+    top: 200px;
+    left: 75px;
+    border: 30px solid white;
+    float: left;
+}
+@font-face {
+    font-family: shubhamstretch;
+    src: url(/Fonts/THE\ SOLSTICE.ttf);
+}
+.text1{
+    height: 800px;
+    width: 250px;
+    background-color:rgb(168, 165, 165) ;
+    float: left;
+}
+.text11{
+    height: 400px;
+    width: 250px;
+    background-color:rgb(168, 165, 165);
+    float: left;
+}
+.text11 h1,h2,h3,h4{
+    /* padding-left: 10px; */
+    line-height: 0.5em;
+    font-family: shubhamstretch;
+}
+.text11 h1{
+    font-size: 70px;
+    padding-left: 10px;
+}
+.text11 h2{
+    font-size: 50px;
+    padding-left: 15px;
+}
+.text11 h3{
+    font-size: 40px;
+    padding-left: 25px;
+    font-stretch: extra-expanded;
+}
+
+.text11 h4{
+    font-size: 90px;
+    margin-top: 0;
+    font-family: shubhamstretch;
+    padding-top: 25px;
+    padding-left: 5px;
+    font-stretch: extra-expanded;
+}
+
+.text12{
+    height: 400px;
+    width: 250px;
+    background-color:rgb(206, 201, 201);
+    float: left;
+}
+.text12 h1{
+    font-family: shubhamstretch;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.text12 p{
+    text-align:left;
+    padding-left: 10px;
+    line-height: 1.2em;
+    
+}
+.sticker1{
+    height: 150px;
+    width: 900px;
+    background-color:rgb(168, 165, 165);
+    float: left;
+    /* margin-left: 50px; */
+}
+.sticker11{
+    height: 100px;
+    width: 250px;
+    background-color: rgb(33, 30, 30);
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: white;
+    line-height: 0.5em;
+}
+.sticker11 h2{
+    padding-left: 50px;
+    margin-top: 15px;
+}
+.sticker11 h3{
+ padding-left: 20px;   
+}
+.sticker11 h1{
+    font-family: shubhamstretch;
+}
+.sticker12{
+    height: 100px;
+    width: 250px;
+    background-color: rgb(33, 30, 30);
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: white;
+    line-height: 0.58em;
+}
+.sticker12 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker12 h3{
+ padding-left: 15px;   
+}
+.sticker12 h1{
+    font-family: shubhamstretch;
+    padding-left: 7px;
+}
+.sticker13{
+    height: 100px;
+    width: 250px;
+    background-color: rgb(33, 30, 30);
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    line-height: 0.58em;
+    color: white;
+}
+.sticker13 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker13 h3{
+ padding-left: 15px;   
+}
+.sticker13 h1{
+    font-family: shubhamstretch;
+    padding-left: 15px;
+}
+.car1{
+    height: 500px;
+    width: 900px;
+    /* background-color: black; */
+    float: left;
+}
+.price1{
+    height: 150px;
+    width: 900px;
+    background-color:rgb(206, 201, 201);
+    float: left;
+}
+.model1{
+    height: 150px;
+    width: 600px;
+    background-color: rgb(206, 201, 201);
+    float: left;
+}
+.mainrate1{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+}
+.rate1{
+    height: 100px;
+    width: 200px;
+    background-color:red;
+    float: right;
+    color: white;
+    text-align: right;
+    line-height: 0.4em;
+    /* position: absolute; */
+    /* right: 30px; */
+}
+.buynow1{
+    height: 50px;
+    width: 200px;
+    float: left;
+    color: azure;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+a{
+    text-decoration: none;
+    background-color:red;
+    font-weight: 30px;
+    font-family: shubhamstretch;
+    border-radius: 10px;
+    color: azure;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    font-size: 18px;
+    background-color: black;
+    color: azure;
+}
+
+.rate1 h1,p{
+    padding-right: 10px;
+}
+/* .modelname1{ */
+    /* height: 40px; */
+    /* width: 600px; */
+    /* background-color: black; */
+/* } */
+/* .table1{ */
+    /* background-color: rgb(206, 201, 201); */
+    /* text-align: center; */
+    /* height: 100px; */
+    /* width: 600px; */
+    /* border: 1px; */
+    /* color: aliceblue; */
+/* } */
+.box2{
+    height: 800px;
+    width: 1150px;
+    background-color: grey;
+    margin: auto;
+    position: absolute;
+    top: 1080px;
+    left: 75px;
+    border: 30px solid white;
+    float: left;
+}
+.text2{
+    height: 800px;
+    width: 250px;
+    background-color:black;
+    float: left;
+}
+.text21{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    float: left;
+    color: azure;
+}
+.text21 h1,h2,h3,h4{
+    /* padding-left: 10px; */
+    line-height: 0.5em;
+    font-family: shubhamstretch;
+}
+.text21 h1{
+    font-size: 70px;
+    padding-left: 10px;
+}
+.text21 h2{
+    font-size: 50px;
+    padding-left: 15px;
+}
+.text21 h3{
+    font-size: 40px;
+    padding-left: 25px;
+    font-stretch: extra-expanded;
+}
+
+.text21 h4{
+    font-size: 90px;
+    margin-top: 0;
+    font-family: shubhamstretch;
+    padding-top: 25px;
+    padding-left: 5px;
+    font-stretch: extra-expanded;
+}
+
+.text22{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    color: azure;
+    float: left;
+}
+.text22 h1{
+    font-family: shubhamstretch;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.text22 p{
+    text-align:left;
+    padding-left: 10px;
+    line-height: 1.2em;
+    
+}
+
+.sticker2{
+    height: 150px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.sticker21{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    line-height: 0.58em;
+    color: black;
+}
+.sticker21 h2{
+    padding-left: 50px;
+    margin-top: 15px;
+}
+.sticker21 h3{
+ padding-left: 20px;   
+}
+.sticker21 h1{
+    font-family: shubhamstretch;
+}
+.sticker22{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    line-height: 0.58em;
+    color: black;
+}
+.sticker22 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker22 h3{
+ padding-left: 15px;   
+}
+.sticker22 h1{
+    font-family: shubhamstretch;
+    padding-left: 7px;
+}
+.sticker23{
+    height: 100px;
+    width: 250px;
+    background-color:azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    line-height: 0.58em;
+    color: black;
+}
+.sticker23 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker23 h3{
+ padding-left: 15px;   
+}
+.sticker23 h1{
+    font-family: shubhamstretch;
+    padding-left: 15px;
+}
+.car2{
+    height: 500px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.price2{
+    height: 150px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.model2{
+    height: 150px;
+    width: 600px;
+    background-color: black;
+    float: left;
+}
+.mainrate2{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+}
+.rate2{
+    height: 100px;
+    width: 200px;
+    background-color:red;
+    float: right;
+    color: white;
+    text-align: right;
+    line-height: 0.4em;
+    /* position: absolute; */
+    /* right: 30px; */
+}
+.buynow2{
+    height: 50px;
+    width: 200px;
+    float: left;
+    color: azure;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+a{
+    text-decoration: none;
+    background-color:red;
+    font-weight: 30px;
+    font-family: shubhamstretch;
+    border-radius: 10px;
+    color: azure;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    font-size: 18px;
+    background-color: black;
+    color: azure;
+}
+
+.rate2 h1,p{
+    padding-right: 10px;
+}
+.box3{
+    height: 800px;
+    width: 1150px;
+    background-color: grey;
+    margin: auto;
+    position: absolute;
+    top: 1960px;
+    left: 75px;
+    border: 30px solid white;
+    float: left;
+}
+.text3{
+    height: 800px;
+    width: 250px;
+    background-color: blue;
+    float: left;
+}
+.text31{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    float: left;
+    color: azure;
+}
+.text31 h1,h2,h3,h4{
+    /* padding-left: 10px; */
+    line-height: 0.5em;
+    font-family: shubhamstretch;
+}
+.text31 h1{
+    font-size: 70px;
+    padding-left: 10px;
+}
+.text31 h2{
+    font-size: 50px;
+    padding-left: 15px;
+}
+.text31 h3{
+    font-size: 40px;
+    padding-left: 25px;
+    font-stretch: extra-expanded;
+}
+
+.text31 h4{
+    font-size: 90px;
+    margin-top: 0;
+    font-family: shubhamstretch;
+    padding-top: 25px;
+    padding-left: 5px;
+    font-stretch: extra-expanded;
+}
+
+.text32{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    color: azure;
+    float: left;
+}
+.text32 h1{
+    font-family: shubhamstretch;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.text32 p{
+    text-align:left;
+    padding-left: 10px;
+    line-height: 1.2em;
+    
+}
+
+.sticker3{
+    height: 150px;
+    width: 900px;
+    background-color:rgb(135, 19, 19);
+    float: left;
+}
+.sticker31{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: red;
+    line-height: 0.58em;
+}
+.sticker31 h2{
+    padding-left: 50px;
+    margin-top: 15px;
+}
+.sticker31 h3{
+ padding-left: 20px;   
+}
+.sticker31 h1{
+    font-family: shubhamstretch;
+}
+.sticker32{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: red;
+    line-height: 0.58em;
+}
+.sticker32 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker32 h3{
+ padding-left: 15px;   
+}
+.sticker32 h1{
+    font-family: shubhamstretch;
+    padding-left: 7px;
+}
+.sticker33{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: red;
+    line-height: 0.58em;
+}
+.sticker33 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker33 h3{
+ padding-left: 15px;   
+}
+.sticker33 h1{
+    font-family: shubhamstretch;
+    padding-left: 15px;
+}
+.car3{
+    height: 500px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.price3{
+    height: 150px;
+    width: 900px;
+    background-color:rgb(168, 14, 14);
+    float: left;
+}
+.model3{
+    height: 150px;
+    width: 600px;
+    background-color:rgb(168, 14, 14);
+    float: left;
+}
+.mainrate3{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+}
+.rate3{
+    height: 100px;
+    width: 200px;
+    background-color:azure;
+    float: right;
+    color: red;
+    text-align: right;
+    line-height: 0.4em;
+    /* position: absolute; */
+    /* right: 30px; */
+}
+.buynow3{
+    height: 50px;
+    width: 200px;
+    float: left;
+    color: azure;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+a{
+    text-decoration: none;
+    background-color:red;
+    font-weight: 30px;
+    font-family: shubhamstretch;
+    border-radius: 10px;
+    color: azure;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    font-size: 18px;
+    background-color: black;
+    color: azure;
+}
+
+.rate3 h1,p{
+    padding-right: 10px;
+}
+.box4{
+    height: 800px;
+    width: 1150px;
+    background-color: black;
+    margin: auto;
+    position: absolute;
+    top: 2840px;
+    left: 75px;
+    border: 30px solid white;
+    float: left;
+}
+.text4{
+    height: 800px;
+    width: 250px;
+    background-color: blue;
+    float: left;
+}
+.text41{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    float: left;
+    color: azure;
+}
+.text41 h1,h2,h3,h4{
+    /* padding-left: 10px; */
+    line-height: 0.5em;
+    font-family: shubhamstretch;
+}
+.text41 h1{
+    font-size: 70px;
+    padding-left: 10px;
+}
+.text41 h2{
+    font-size: 50px;
+    padding-left: 15px;
+}
+.text41 h3{
+    font-size: 40px;
+    padding-left: 25px;
+    font-stretch: extra-expanded;
+}
+
+.text41 h4{
+    font-size: 90px;
+    margin-top: 0;
+    font-family: shubhamstretch;
+    padding-top: 25px;
+    padding-left: 5px;
+    font-stretch: extra-expanded;
+}
+
+.text42{
+    height: 400px;
+    width: 250px;
+    background-color:black;
+    color: azure;
+    float: left;
+}
+.text42 h1{
+    font-family: shubhamstretch;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.text42 p{
+    text-align:left;
+    padding-left: 10px;
+    line-height: 1.2em;
+    
+}
+
+.sticker4{
+    height: 150px;
+    width: 900px;
+    background-color:black;
+    float: left;
+}
+.sticker41{
+    height: 100px;
+    width: 250px;
+    background-color:azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: black;
+    line-height: 0.58em;
+}
+.sticker41 h2{
+    padding-left: 50px;
+    margin-top: 15px;
+}
+.sticker41 h3{
+ padding-left: 20px;   
+}
+.sticker41 h1{
+    font-family: shubhamstretch;
+}
+.sticker42{
+    height: 100px;
+    width: 250px;
+    background-color: azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: black;
+    line-height: 0.58em;
+}
+.sticker42 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker42 h3{
+ padding-left: 15px;   
+}
+.sticker42 h1{
+    font-family: shubhamstretch;
+    padding-left: 7px;
+}
+.sticker43{
+    height: 100px;
+    width: 250px;
+    background-color:azure;
+    float: left;
+    margin-top: 25px;
+    margin-left: 30px;
+    color: black;
+    line-height: 0.58em;
+}
+.sticker43 h2{
+    padding-left: 40px;
+    margin-top: 15px;
+}
+.sticker43 h3{
+ padding-left: 15px;   
+}
+.sticker43 h1{
+    font-family: shubhamstretch;
+    padding-left: 15px;
+}
+.car4{
+    height: 500px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.price4{
+    height: 150px;
+    width: 900px;
+    background-color: black;
+    float: left;
+}
+.model4{
+    height: 150px;
+    width: 600px;
+    background-color: black;
+    float: left;
+}
+.mainrate4{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+}
+.rate4{
+    height: 100px;
+    width: 200px;
+    background-color:azure;
+    float: right;
+    color: red;
+    text-align: right;
+    line-height: 0.4em;
+    /* position: absolute; */
+    /* right: 30px; */
+}
+.buynow4{
+    height: 50px;
+    width: 200px;
+    float: left;
+    color: azure;
+    margin-left: 30px;
+    margin-top: 12px;
+}
+a{
+    text-decoration: none;
+    background-color:azure;
+    font-weight: 30px;
+    font-family: shubhamstretch;
+    border-radius: 10px;
+    color: black;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a:hover{
+    font-size: 18px;
+    background-color: black;
+    color: azure;
+}
+.rate4 h1,p{
+    padding-right: 10px;
+}
