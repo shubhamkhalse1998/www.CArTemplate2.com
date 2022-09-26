@@ -1,6 +1,6 @@
 @font-face {
     font-family: shubhamstretch;
-    src: url(/fonts/THE\ SOLSTICE.ttf);
+    src: url(../fonts/THE\ SOLSTICE.ttf);
 }
 .homepage{
     height: 650px;
@@ -9,7 +9,7 @@
 .galaxy{
     height:650px ;
     width: 100%;
-    background-image: url(/images/galaxy4.jpg);
+    background-image: url(../images/galaxy4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color:transparent;
